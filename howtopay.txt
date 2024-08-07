@@ -1,0 +1,9 @@
+navigate to the folder directory in terminal and run the game.py:
+python3 game.py
+or
+python game.py
+________________________________________________________________________
+
+w,a,s,d are for movements
+the each car you succesfully dodge adds to your points
+level increase after a total 20 points along with speed by 1 point each level
